@@ -6,6 +6,7 @@
     padding-right: 35px;
     text-align: right;
     width: 140px;
+    padding-top: 8px;
 }
 .menu-opcoes ul {
     font-size: 15px;
@@ -16,4 +17,13 @@
 body {
     color: #333;
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+.menu-opcoes ul li {
+    display: inline;
+    margin-left: 20px;
+}
+.container {
+    margin: 0 auto;
+    width: 940px;
+    
 }
