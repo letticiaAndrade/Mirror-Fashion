@@ -16,7 +16,9 @@
 }
 .menu-opcoes a {
     color: #003366;
+    text-decoration: none;
 }
+
 body {
     color: #333;
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
