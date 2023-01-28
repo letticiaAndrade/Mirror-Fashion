@@ -90,3 +90,9 @@ header {
     margin: 2px;
     padding-bottom: 10px;
 }
+.painel h2 {
+    font-size: 24px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
