@@ -83,6 +83,7 @@ header {
 }
 .mais-vendidos {
     float: right;
+    background-color: #dcdcf5;
 }
 .painel li {
     display: inline-block;
