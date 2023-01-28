@@ -119,22 +119,20 @@ footer.container {
     text-indent: -9999px;
 }
 .social a[href="https://www.facebook.com/mirrorfashion"] {
-
-    height: 32px;
-    width: 32px;
     background-image: url(../img/facebook.png);
-
 }
 .social a[href="https://twitter.com/mirrorfashion"] {
     background-image: url(../img/twitter.png);
 }
 .social a[href="https://plus.google.com/mirrorfashion"] {
-
     background-image: url(../img/googleplus.png);
 } 
 .social li {
     float: left;
     margin-left: 25px;
+    position: relative;
+    top: 1980px;
+    right: 500px;
 }
 
     /*aqui é uma técnica para colocar uma imagem encima do texto e 
