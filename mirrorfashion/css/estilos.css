@@ -79,6 +79,7 @@ header {
 }
 .novidades {
     float: left;
+    background-color: #F5DCDC;
 }
 .mais-vendidos {
     float: right;
