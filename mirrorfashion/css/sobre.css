@@ -95,3 +95,50 @@ body header {
     float: right;
     margin: 0 0 10px 10px;
 }
+
+footer {
+    background-image: url(../img/fundo-rodape.png);
+    clear: both;
+    padding: 20px 0;
+}
+
+footer.container {
+    position: relative;
+}
+
+.social {
+    position: absolute;
+    top: 12px;
+    right: 0;
+}
+
+.social a {
+    height: 32px;
+    width: 32px;
+    display: block;
+    text-indent: -9999px;
+}
+.social a[href="https://www.facebook.com/mirrorfashion"] {
+
+    height: 32px;
+    width: 32px;
+    background-image: url(../img/facebook.png);
+
+}
+.social a[href="https://twitter.com/mirrorfashion"] {
+    background-image: url(../img/twitter.png);
+}
+.social a[href="https://plus.google.com/mirrorfashion"] {
+
+    background-image: url(../img/googleplus.png);
+} 
+.social li {
+    float: left;
+    margin-left: 25px;
+}
+
+    /*aqui é uma técnica para colocar uma imagem encima do texto e 
+     o text-indent negativo faz com que o texto saia da área de visão do usuário
+    e deixando somente a imagem*/
+    
+
