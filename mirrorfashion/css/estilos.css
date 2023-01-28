@@ -145,6 +145,10 @@ footer.container {
 .social li {
     float: left;
     margin-left: 25px;
+
+    position: relative;
+    top: 1200px;
+    right: 500px;
 }
 .busca button {
     background-image: url(../img/busca.png);
